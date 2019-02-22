@@ -1,0 +1,19 @@
+{
+  "name": "npmfccexercises",
+  "version": "1.0.0",
+  "description": "Fcc Task 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leodak/npmfccexercises.git"
+  },
+  "author": "Jane Doe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leodak/npmfccexercises/issues"
+  },
+  "homepage": "https://github.com/leodak/npmfccexercises#readme"
+}
